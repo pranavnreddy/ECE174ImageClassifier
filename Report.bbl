@@ -1,0 +1,30 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[mat()]{matplotlibdocs}
+Api reference.
+\newblock URL \url{https://matplotlib.org/stable/api/index.html}.
+
+\bibitem[num()]{numpydocs}
+Numpy reference.
+\newblock URL \url{https://numpy.org/doc/1.26/reference/index.html#reference}.
+
+\bibitem[sci()]{scipydocs}
+Scipy api.
+\newblock URL \url{https://docs.scipy.org/doc/scipy/reference/}.
+
+\bibitem[skl()]{sklearndocs}
+Api reference.
+\newblock URL \url{https://scikit-learn.org/stable/modules/classes.html}.
+
+\bibitem[Boyd and Vandenberghe(2018)]{key}
+S.~Boyd and L.~Vandenberghe.
+\newblock \emph{Introduction to Applied Linear Algebra}.
+\newblock Cambridge University Press, 2018.
+\newblock ISBN 9781108583664.
+
+\end{thebibliography}
